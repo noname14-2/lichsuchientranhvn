@@ -444,7 +444,117 @@ const quizData = {
   answer: "Trận 'Điện Biên Phủ trên không' năm 1972"
 },
   ],
-
+  battles: [
+    {
+      question: "Chiến thắng nào được coi là 'mốc vàng chói lọi' đánh dấu sự trưởng thành của quân đội ta trong kháng chiến chống Pháp?",
+      options: [
+        "Chiến dịch Việt Bắc thu đông 1947",
+        "Chiến dịch Biên giới thu đông 1950",
+        "Chiến dịch Điện Biên Phủ 1954",
+        "Chiến dịch Hòa Bình 1951-1952"
+      ],
+      answer: "Chiến dịch Biên giới thu đông 1950"
+    },
+    
+    {
+      question: "Chiến thắng nào đã làm phá sản hoàn toàn kế hoạch Nava của thực dân Pháp?",
+      options: [
+        "Chiến dịch Điện Biên Phủ",
+        "Chiến dịch Tây Bắc",
+        "Chiến dịch Thượng Lào", 
+        "Chiến dịch Hòa Bình"
+      ],
+      answer: "Chiến dịch Điện Biên Phủ"
+    },
+    
+    {
+      question: "Chiến thắng nào đã buộc thực dân Pháp phải kí Hiệp định Giơnevơ (1954)?",
+      options: [
+        "Chiến thắng Việt Bắc thu - đông 1947",
+        "Chiến thắng Biên giới thu - đông 1950",
+        "Chiến thắng Điện Biên Phủ 1954",
+        "Chiến thắng Tây Bắc 1952"
+      ],
+      answer: "Chiến thắng Điện Biên Phủ 1954"
+    },
+    
+    {
+      question: "Chiến dịch nào là chiến dịch chủ động tiến công lớn đầu tiên của bộ đội chủ lực Việt Nam trong kháng chiến chống Pháp?",
+      options: [
+        "Chiến dịch Việt Bắc thu-đông 1947",
+        "Chiến dịch Biên giới thu-đông 1950",
+        "Chiến dịch Điện Biên Phủ 1954",
+        "Chiến dịch Hòa Bình 1951-1952"
+      ],
+      answer: "Chiến dịch Biên giới thu-đông 1950"
+    },
+    
+    {
+      question: "Chiến thắng nào đã mở ra bước phát triển mới của cuộc kháng chiến chống Pháp?",
+      options: [
+        "Chiến thắng Việt Bắc thu - đông 1947",
+        "Chiến thắng Biên giới thu - đông 1950",
+        "Chiến thắng Điện Biên Phủ 1954",
+        "Chiến thắng Tây Bắc 1952"
+      ],
+      answer: "Chiến thắng Biên giới thu - đông 1950"
+    },
+    
+    {
+      question: "Chiến dịch nào đã góp phần quan trọng làm thất bại kế hoạch Nava của thực dân Pháp?",
+      options: [
+        "Chiến dịch Thượng Lào",
+        "Chiến dịch Tây Bắc",
+        "Chiến dịch Điện Biên Phủ",
+        "Chiến dịch Hòa Bình"
+      ],
+      answer: "Chiến dịch Thượng Lào"
+    },
+    
+    {
+      question: "Chiến thắng nào đã làm phá sản hoàn toàn âm mưu 'đánh nhanh thắng nhanh' của thực dân Pháp?",
+      options: [
+        "Chiến thắng Việt Bắc thu - đông 1947",
+        "Chiến thắng Biên giới thu - đông 1950",
+        "Chiến thắng Điện Biên Phủ 1954",
+        "Chiến thắng Tây Bắc 1952"
+      ],
+      answer: "Chiến thắng Việt Bắc thu - đông 1947"
+    },
+    
+    {
+      question: "Chiến thắng nào được coi là 'Ấp Bắc' đối với quân Mỹ trong chiến tranh chống Mỹ?",
+      options: [
+        "Chiến thắng Vạn Tường 1965",
+        "Chiến thắng Núi Thành 1965",
+        "Chiến thắng Bình Giã 1964",
+        "Chiến thắng Ba Gia 1965"
+      ],
+      answer: "Chiến thắng Vạn Tường 1965"
+    },
+    
+    {
+      question: "Chiến thắng nào đã buộc Mỹ phải tuyên bố 'phi Mỹ hóa' chiến tranh?",
+      options: [
+        "Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968",
+        "Chiến thắng Vạn Tường 1965",
+        "Chiến dịch Đường 9 - Nam Lào 1971",
+        "Chiến dịch Nguyễn Huệ 1972"
+      ],
+      answer: "Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968"
+    },
+    
+    {
+      question: "Chiến thắng nào đã buộc Mỹ phải ký Hiệp định Paris (1973)?",
+      options: [
+        "Trận 'Điện Biên Phủ trên không' 1972",
+        "Cuộc Tổng tiến công và nổi dậy Xuân 1975",
+        "Chiến dịch Đường 9 - Nam Lào 1971",
+        "Chiến dịch Nguyễn Huệ 1972"
+      ],
+      answer: "Trận 'Điện Biên Phủ trên không' 1972"
+    }
+  ],
   figures: [
     {
       question: "Ai là người chỉ huy chiến dịch Điện Biên Phủ?",
