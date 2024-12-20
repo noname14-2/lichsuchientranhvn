@@ -11,48 +11,10 @@ const quizData = {
       answer: "Kháng chiến toàn dân"
     },
     {
-      question: "Cuộc chiến đấu nào của quân nhân Việt Nam đã tạo điều kiện để cả nước đi vào cuộc kháng chiến chống Pháp lâu dài?",
-      options: ["Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16", "Chiến dịch Việt Bắc thu- đông", "Chiến dịch Biên giới thu- đông", "Chiến dịch trung du và đồng bằng Bắc Bộ"],
-      answer: "Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16"
-    },
-    {
       question: "Ngày Nam Bộ kháng chiến chống Pháp trở lại xâm lược là ngày:",
       options: ["Ngày 6/9/1945", "Ngày 23/9/1945", "Ngày 5/10/1945", "Ngày 22/9/1945"],
       answer: "Ngày 23/9/1945"
     },
-    {
-      question: "Cuộc chiến đấu nào của quân nhân Việt Nam đã tạo điều kiện để cả nước đi vào cuộc kháng chiến chống Pháp lâu dài?",
-      options: ["Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16", "Chiến dịch Việt Bắc thu- đông", "Chiến dịch Biên giới thu- đông", "Chiến dịch trung du và đồng bằng Bắc Bộ"],
-      answer: "Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16"
-    },
-    {
-      question: "Ngày Nam Bộ kháng chiến chống Pháp trở lại xâm lược là ngày:",
-      options: ["Ngày 6/9/1945", "Ngày 23/9/1945", "Ngày 5/10/1945", "Ngày 22/9/1945"],
-      answer: "Ngày 23/9/1945"
-    },
-    {
-      question: "Sự kiện nào là mốc đánh dấu kết thúc cuộc kháng chiến của dân tộc Việt Nam chống thực dân Pháp xâm lược (1945-1954)?",
-      options: ["Thắng lợi của chiến dịch Điện Biên Phủ", "Bộ đội Việt Nam tiến vào tiếp quản Hà Nội", "Quân Pháp xuống tàu rút khỏi Hải Phòng", "Hiệp định Giơ-ne-vơ về Đông Dương được kí kết"],
-      answer: "Hiệp định Giơ-ne-vơ về Đông Dương được kí kết"
-    },
-    {
-      question: "Cuộc chiến đấu nào của quân nhân Việt Nam đã tạo điều kiện để cả nước đi vào cuộc kháng chiến chống Pháp lâu dài?",
-      options: ["Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16", "Chiến dịch Việt Bắc thu- đông", "Chiến dịch Biên giới thu- đông", "Chiến dịch trung du và đồng bằng Bắc Bộ"],
-      answer: "Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16"
-    },
-    
-    {
-      question: "Ngày Nam Bộ kháng chiến chống Pháp trở lại xâm lược là ngày:",
-      options: ["Ngày 6/9/1945", "Ngày 23/9/1945", "Ngày 5/10/1945", "Ngày 22/9/1945"],
-      answer: "Ngày 23/9/1945"
-    },
-    
-    {
-      question: "Sự kiện nào là mốc đánh dấu kết thúc cuộc kháng chiến của dân tộc Việt Nam chống thực dân Pháp xâm lược (1945-1954)?",
-      options: ["Thắng lợi của chiến dịch Điện Biên Phủ", "Bộ đội Việt Nam tiến vào tiếp quản Hà Nội", "Quân Pháp xuống tàu rút khỏi Hải Phòng", "Hiệp định Giơ-ne-vơ về Đông Dương được kí kết"],
-      answer: "Hiệp định Giơ-ne-vơ về Đông Dương được kí kết"
-    },
-    
     {
       question: "Sự kiện nào chứng tỏ thực dân Pháp trở lại xâm lược nước ta lần thứ hai?",
       options: ["Ngày 2-9-1945, khi nhân dân Sài Gòn-Chợ Lớn tổ chức mit tinh chào mừng ngày độc lập, thực dân Pháp xả súng bắn làm cho 47 người chết", "Ngày 23-9-1945, thực dân Pháp đánh úp trụ sở ủy ban nhân dân Nam Bộ", "Ngày 17-11-1946, thực dân Pháp đánh chiếm Hải Phòng", "Ngày 18-12-1946, thực dân Pháp gửi tối hậu thư yêu cầu Chính phủ ta giải tán lực lượng vũ trang"],
@@ -82,25 +44,6 @@ const quizData = {
       options: ["Ở Nam Bộ và Trung Bộ, Pháp tập trung quân tiến công các cơ sở cách mạng", "Ở Bắc Bộ thực dân Pháp đánh chiếm Hải Phòng, Lạng Sơn", "Ở Hà Nội, thực dân Pháp liên tiếp gây ra những xung đột vũ trang", "Gửi tối hậu thư đòi Chính phủ hạ vũ khí đầu hàng"],
       answer: "Gửi tối hậu thư đòi Chính phủ hạ vũ khí đầu hàng"
     },
-    // FRENCH (Các câu hỏi về thời kỳ chống Pháp)
-
-{
-  question: "Cuộc chiến đấu nào của quân nhân Việt Nam đã tạo điều kiện để cả nước đi vào cuộc kháng chiến chống Pháp lâu dài?",
-  options: ["Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16", "Chiến dịch Việt Bắc thu- đông", "Chiến dịch Biên giới thu- đông", "Chiến dịch trung du và đồng bằng Bắc Bộ"],
-  answer: "Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16"
-},
-
-{
-  question: "Bất kì đàn ông, đàn bà, bất kì người già người trẻ, không chia tôn giáo đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc. Đoạn văn trên phản ánh nội dung nào trong đường lối kháng chiến chống Pháp của Đảng?",
-  options: ["Kháng chiến toàn dân", "Kháng chiến toàn diện", "Kháng chiến trường kì", "Tự lực cánh sinh"],
-  answer: "Kháng chiến toàn dân"
-},
-
-{
-  question: "Ngày Nam Bộ kháng chiến chống Pháp trở lại xâm lược là ngày:",
-  options: ["Ngày 6/9/1945", "Ngày 23/9/1945", "Ngày 5/10/1945", "Ngày 22/9/1945"],
-  answer: "Ngày 23/9/1945"
-},
 
 {
   question: "Sự kiện nào là nguyên nhân làm cho Đảng ta thay đổi chiến lược từ hoà hoãn với Tưởng để chống Pháp sang hoà hoãn với Pháp để đuổi Tưởng?",
@@ -113,19 +56,6 @@ const quizData = {
   options: ["Đó là thời điểm ta đã hoàn tất mọi công tác chuẩn bị cho kháng chiến", "Lúc này viện quân Pháp vừa mới đến Hải Phòng", "Sự nhân nhượng đã đến giới hạn, dân tộc ta không thể lùi thêm được nữa", "Quân đội Pháp đã mở rộng đánh chiếm Hà Nội"],
   answer: "Sự nhân nhượng đã đến giới hạn, dân tộc ta không thể lùi thêm được nữa"
 },
-
-{
-  question: "Ta tiến hành kháng chiến chống Pháp trong hoàn cảnh nào?",
-  options: ["Tình hình quốc tế bất lợi cho ta", "Cuộc chiến đấu của dân tộc ta hoàn toàn đơn độc", "Chỉ nhận được sự ủng hộ về mặt tinh thần của 2 nước Liên Xô và Trung Quốc", "Quốc tế III không có những biện pháp cụ thể để hỗ trợ"],
-  answer: "Tình hình quốc tế bất lợi cho ta"
-},
-
-{
-  question: "Một trong những khẩu hiệu được đưa ra khi cuộc kháng chiến chống Pháp quay lại xâm lược đã bùng nổ trên quy mô cả nước?",
-  options: ["Tiêu thổ kháng chiến", "Không một tấc đất bỏ hoang", "Bảo vệ mùa màng để chiến thắng", "Đoàn kết chống xâm lăng"],
-  answer: "Tiêu thổ kháng chiến"
-},
-
 {
   question: "Phong trào bình dân học vụ trong kháng chiến chống Pháp là:",
   options: ["Cuộc vận động cải cách giáo dục", "Cuộc vận động toàn dân tăng gia sản xuất", "Cuộc vận động nhân dân tham gia các lớp học để xóa mù chữ", "Cuộc vận động nhân dân tham gia để thực hiện nếp sống mới"],
@@ -146,18 +76,6 @@ const quizData = {
 // FRENCH (Các câu hỏi về thời kỳ chống Pháp)
 
 {
-  question: "Cuộc chiến đấu nào của quân nhân Việt Nam đã tạo điều kiện để cả nước đi vào cuộc kháng chiến chống Pháp lâu dài?",
-  options: ["Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16", "Chiến dịch Việt Bắc thu- đông", "Chiến dịch Biên giới thu- đông", "Chiến dịch trung du và đồng bằng Bắc Bộ"],
-  answer: "Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16"
-},
-
-{
-  question: "Bất kì đàn ông, đàn bà, bất kì người già người trẻ, không chia tôn giáo đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc. Đoạn văn trên phản ánh nội dung nào trong đường lối kháng chiến chống Pháp của Đảng?",
-  options: ["Kháng chiến toàn dân", "Kháng chiến toàn diện", "Kháng chiến trường kì", "Tự lực cánh sinh"],
-  answer: "Kháng chiến toàn dân"
-},
-
-{
   question: "Những câu thơ sau gợi cho anh (chị) nhớ đến chiến thắng lịch sử nào của dân tộc trong cuộc kháng chiến chống Pháp (1945-1954)? Năm mươi sáu ngày đêm khoét núi, ngủ hầm, mưa dầm, cơm vắt. Máu trộn bùn non. Gan không núng. Chí không mòn!",
   options: ["Chiến dịch Việt Bắc thu- đông năm 1947", "Chiến dịch Biên giới thu- đông năm 1950", "Cuộc tiến công chiến lược Đông- Xuân 1953-1954", "Chiến dịch Điện Biên Phủ năm 1954"],
   answer: "Chiến dịch Điện Biên Phủ năm 1954"
@@ -174,13 +92,6 @@ const quizData = {
   options: ["Quốc hội khoá 1 (2-3-1946) chủ trương cho Tưởng một số ghế trong Quốc hội", "Hiệp ước Hoa - Pháp (28-2-1946)", "Hiệp định sơ bộ Việt - Pháp (6-3-1946)", "Tạm ước Việt - Pháp (14-9-1946)"],
   answer: "Hiệp ước Hoa - Pháp (28-2-1946)"
 },
-
-{
-  question: "Vì sao cuộc kháng chiến toàn quốc chống Pháp bùng nổ ngày 19/12/1946?",
-  options: ["Đó là thời điểm ta đã hoàn tất mọi công tác chuẩn bị cho kháng chiến", "Lúc này viện quân Pháp vừa mới đến Hải Phòng", "Sự nhân nhượng đã đến giới hạn, dân tộc ta không thể lùi thêm được nữa", "Quân đội Pháp đã mở rộng đánh chiếm Hà Nội"],
-  answer: "Sự nhân nhượng đã đến giới hạn, dân tộc ta không thể lùi thêm được nữa"
-},
-
 {
   question: "Ta tiến hành kháng chiến chống Pháp trong hoàn cảnh nào?",
   options: ["Tình hình quốc tế bất lợi cho ta", "Cuộc chiến đấu của dân tộc ta hoàn toàn đơn độc", "Chỉ nhận được sự ủng hộ về mặt tinh thần của 2 nước Liên Xô và Trung Quốc", "Quốc tế III không có những biện pháp cụ thể để hỗ trợ"],
@@ -191,24 +102,6 @@ const quizData = {
   question: "Một trong những khẩu hiệu được đưa ra khi cuộc kháng chiến chống Pháp quay lại xâm lược đã bùng nổ trên quy mô cả nước?",
   options: ["Tiêu thổ kháng chiến", "Không một tấc đất bỏ hoang", "Bảo vệ mùa màng để chiến thắng", "Đoàn kết chống xâm lăng"],
   answer: "Tiêu thổ kháng chiến"
-},
-
-{
-  question: "Phong trào bình dân học vụ trong kháng chiến chống Pháp là:",
-  options: ["Cuộc vận động cải cách giáo dục", "Cuộc vận động toàn dân tăng gia sản xuất", "Cuộc vận động nhân dân tham gia các lớp học để xóa mù chữ", "Cuộc vận động nhân dân tham gia để thực hiện nếp sống mới"],
-  answer: "Cuộc vận động nhân dân tham gia các lớp học để xóa mù chữ"
-},
-
-{
-  question: "Trong quá trình kháng chiến chống Pháp 1947-1950, Chính phủ ta đã tiến hành các biện pháp gì để giải quyết nhiệm vụ dân chủ?",
-  options: ["Ban hành sắc lệnh giảm tô 25%", "Sắc lệnh hoãn nợ, xóa nợ của nông dân với địa chủ", "Tạm cấp ruộng đất vắng chủ, đất bỏ hoang cho nông dân", "Tất cả các ý trên"],
-  answer: "Tất cả các ý trên"
-},
-
-{
-  question: "Văn kiện nào trình bày đầy đủ nhất đường lối kháng chiến chống Pháp của Đảng ta?",
-  options: ["Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh", "Bản chỉ thị Toàn quốc kháng chiến của Ban thường vụ Trung ương Đảng", "Tác phẩm Kháng chiến nhất định thắng lợi của Trường Chinh", "A và B đúng"],
-  answer: "A và B đúng"
 },
 {
   question: "Dân tộc ta kháng chiến chống Pháp và quân can thiệp Mĩ khi nào?",
@@ -310,139 +203,7 @@ const quizData = {
   question: "Đâu không phải là nguyên nhân khiến Mĩ buộc phải xuống thang chiến tranh sau đòn tấn công bất ngờ ở tết Mậu Thân năm 1968?",
   options: ["Phong trào phản đối chiến tranh ở Mĩ dâng cao", "Mĩ không thể bẻ gãy được 'xương sống' của Việt Cộng", "Ý chí xâm lược của Mĩ bị lung lay", "Quân đội Sài Gòn đủ khả năng tự đứng vững trên chiến trường"],
   answer: "Quân đội Sài Gòn đủ khả năng tự đứng vững trên chiến trường"
-},{
-  question: "Ngày 31-3-1968, Tổng thống Mỹ nào đã tuyên bố ngừng ném bom miền Bắc Việt Nam từ vĩ tuyến 20 trở ra?",
-  options: ["Kenndy", "Johnson", "Nixon", "Eisenhower"],
-  answer: "Johnson"
-},
-
-{
-  question: "Tổng thống Mỹ nào đã đề ra học thuyết Domino?",
-  options: ["Truman", "Eisenhower", "Kennedy", "Johnson"],
-  answer: "Eisenhower"
-},
-
-{
-  question: "Chiến lược toàn cầu của Mỹ trong những năm 1954-1975 nhằm mục đích gì?",
-  options: ["Ngăn chặn, đẩy lùi và tiến tới xóa bỏ chủ nghĩa xã hội", "Bảo vệ hòa bình thế giới", "Giúp đỡ các nước đang phát triển", "Chống chủ nghĩa khủng bố"],
-  answer: "Ngăn chặn, đẩy lùi và tiến tới xóa bỏ chủ nghĩa xã hội"
-},
-
-{
-  question: "Mục tiêu cơ bản của thực dân Pháp trong việc đề ra và thực hiện kế hoạch Nava là gì?",
-  options: ["Giành lại thế chủ động trên chiến trường", "Tiêu diệt lực lượng kháng chiến của Việt Minh", "Mở rộng bình định vùng chiếm đóng", "Xoay chuyển cục diện chiến tranh, kết thúc chiến tranh trong danh dự"],
-  answer: "Xoay chuyển cục diện chiến tranh, kết thúc chiến tranh trong danh dự"
-},
-
-{
-  question: "Sau thất bại của chiến lược nào, Mỹ buộc phải thực hiện chiến lược 'Việt Nam hóa chiến tranh'?",
-  options: ["Chiến tranh đặc biệt", "Chiến tranh cục bộ", "Chiến tranh đơn phương", "Chiến tranh tổng lực"],
-  answer: "Chiến tranh cục bộ"
-},
-
-{
-  question: "Chiến lược 'Việt Nam hóa chiến tranh' của Mỹ được thực hiện dưới thời Tổng thống nào?",
-  options: ["Kennedy", "Johnson", "Nixon", "Ford"],
-  answer: "Nixon"
-},{
-  question: "Chiến lược 'Việt Nam hóa chiến tranh' của Mỹ được thực hiện dưới thời Tổng thống nào?",
-  options: ["Kennedy", "Johnson", "Nixon", "Ford"],
-  answer: "Nixon"
-},
-
-{
-  question: "Chiến lược 'Việt Nam hóa chiến tranh' của Mỹ được thực hiện trong thời gian nào?",
-  options: ["1965-1968", "1969-1973", "1973-1975", "1964-1972"],
-  answer: "1969-1973"
-},
-
-{
-  question: "Nội dung nào không phải là biện pháp thực hiện chiến lược 'Việt Nam hóa chiến tranh' của Mỹ?",
-  options: [
-    "Tăng cường, hiện đại hóa quân đội Sài Gòn",
-    "Rút dần quân đội Mỹ về nước", 
-    "Đưa quân Mỹ trở lại chiến trường miền Nam",
-    "Tiếp tục duy trì viện trợ quân sự cho chính quyền Sài Gòn"
-  ],
-  answer: "Đưa quân Mỹ trở lại chiến trường miền Nam"
-},
-
-{
-  question: "Mục tiêu của chiến lược 'Việt Nam hóa chiến tranh' là gì?",
-  options: [
-    "Rút quân về nước trong danh dự",
-    "Thay đổi màu sắc của cuộc chiến tranh xâm lược", 
-    "Tiếp tục thực hiện âm mưu xâm lược miền Nam",
-    "Tất cả các phương án trên"
-  ],
-  answer: "Tất cả các phương án trên"
-},
-
-{
-  question: "Chiến thắng nào buộc Mỹ phải tuyên bố 'Mỹ hóa' trở lại chiến tranh xâm lược?",
-  options: [
-    "Chiến thắng Xuân Mậu Thân 1968",
-    "Chiến thắng đường 9 - Nam Lào 1971",
-    "Chiến thắng Xuân - Hè 1972",
-    "Chiến thắng 'Điện Biên Phủ trên không' 1972"
-  ],
-  answer: "Chiến thắng Xuân - Hè 1972"
-},
-
-{
-  question: "Trong chiến lược 'Việt Nam hóa chiến tranh', Mỹ đã mở rộng chiến tranh ra toàn Đông Dương nhằm mục đích gì?",
-  options: [
-    "Phá hoại hậu phương miền Bắc",
-    "Ngăn chặn sự chi viện của miền Bắc cho miền Nam",
-    "Phá hoại công cuộc xây dựng CNXH ở miền Bắc",
-    "Cả B và C"
-  ],
-  answer: "Cả B và C"
-},
-
-{
-  question: "Chiến thắng nào của quân dân ta đã làm phá sản hoàn toàn chiến lược 'Việt Nam hóa chiến tranh' của Mỹ?",
-  options: [
-    "Chiến thắng Xuân - Hè 1972",
-    "Trận 'Điện Biên Phủ trên không' năm 1972",
-    "Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975",
-    "Chiến dịch Huế - Đà Nẵng 1975"
-  ],
-  answer: "Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975"
-},
-
-{
-  question: "Vì sao Mỹ phải thực hiện chiến lược 'Việt Nam hóa chiến tranh'?",
-  options: [
-    "Do thất bại của chiến lược 'Chiến tranh đặc biệt'",
-    "Do thất bại của chiến lược 'Chiến tranh cục bộ'",
-    "Do tác động của phong trào phản đối chiến tranh trong nước",
-    "Do tác động của Hiệp định Paris 1973"
-  ],
-  answer: "Do thất bại của chiến lược 'Chiến tranh cục bộ'"
-},
-
-{
-  question: "Điểm khác biệt của chiến lược 'Việt Nam hóa chiến tranh' so với chiến lược 'Chiến tranh cục bộ' là gì?",
-  options: [
-    "Sử dụng quân đội Sài Gòn làm lực lượng chủ yếu",
-    "Rút dần quân đội Mỹ về nước",
-    "Tiếp tục duy trì viện trợ quân sự cho chính quyền Sài Gòn",
-    "Cả A và B"
-  ],
-  answer: "Cả A và B"
-},
-
-{
-  question: "Chiến thắng nào đã buộc Mỹ phải ký Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam?",
-  options: [
-    "Chiến thắng Xuân - Hè 1972",
-    "Trận 'Điện Biên Phủ trên không' năm 1972",
-    "Chiến thắng đường 9 - Nam Lào 1971",
-    "Chiến dịch Nguyễn Huệ 1972"
-  ],
-  answer: "Trận 'Điện Biên Phủ trên không' năm 1972"
-},
+}
   ],
   battles: [
     {
@@ -608,7 +369,6 @@ const quizData = {
     }
   ]
 };
-
 class Quiz {
       constructor(category) {
           this.category = category;
